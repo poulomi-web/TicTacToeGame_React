@@ -1,4 +1,4 @@
-This is a simple 2 player tic-tac-toe game - Ongoing status.
+This is a 2-player tic-tac-toe game.
 
 Tech stacks used are: React/HTML/CSS
 
